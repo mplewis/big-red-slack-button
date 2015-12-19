@@ -64,6 +64,10 @@ But don't push it too many times or your boss will fire you.
 
 [PlatformIO](http://platformio.org/): If you're looking to write, compile, and upload Arduino scripts, PlatformIO is the best tool I have ever used. It's got an awesome interface and is much nicer to use than Arduino IDE.
 
+# Docs
+
+[ESP8266 Arduino Core](https://github.com/esp8266/Arduino): If you want to write more ESP8266 Arduino code, here's where you'll find the API docs.
+
 # License
 
 MIT
